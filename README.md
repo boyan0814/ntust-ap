@@ -10,12 +10,12 @@
 ## Background
 Android 透過 Retrofit 調用 Java Spring 執行 API。
 
-Android 檔案放置於 <a href="https://github.com/arienchen/ntus-ap/tree/main/Code/APP/Figma">Figma</a>，包含
+Android 檔案放置於 <a href="https://github.com/boyan0814/ntust-ap/tree/main/Code/APP/Figma">Figma</a>，包含
 - Adapter
 - Layout
 - Fragment ( 對照於 <a href="https://www.figma.com/file/hJDHjx0X1tVmgZdr65Gaux/ntust_ap?node-id=0%3A1">ntust_ap</a> )
 
-Java Spring 檔案放置於 <a href="https://github.com/arienchen/ntus-ap/tree/main/Code/Server/ntust_ap_server">ntust_ap_server</a>，包含
+Java Spring 檔案放置於 <a href="https://github.com/boyan0814/ntust-ap/tree/main/Code/Server/ntust_ap_server">ntust_ap_server</a>，包含
 - activity
 - edit_user
 - image
@@ -46,5 +46,5 @@ MariaDB
 - 陳昱嘉 hychen.pd.01@gmail.com
 ---
 ## Links
-- <a href="https://github.com/arienchen/ntus-ap/tree/main/Code/DataBase">資料庫程式位置</a>
-- <a href="https://github.com/arienchen/ntus-ap/tree/main/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86">專案文件</a>
+- <a href="https://github.com/boyan0814/ntust-ap/tree/main/Code/DataBase">資料庫程式位置</a>
+- <a href="https://github.com/boyan0814/ntust-ap/tree/main/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86">專案文件</a>
